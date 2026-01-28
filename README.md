@@ -1,2 +1,3 @@
-# powerbi-hr-analytics-dashboard
-Power BI project focused on HR data analysis and visualization. Includes SQL-based data preparation, KPI tracking, and interactive dashboards.
+
+Enterprise-style HR Analytics dashboard built using Power BI, SQL, and DAX.
+Covers data ingestion, transformation, modeling, KPI calculation, and interactive visualization following BI best practices.
